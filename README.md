@@ -46,7 +46,7 @@ konzistentný programovací štýl, Vyradenie ­ ak bude neužitočný<br />
 **43. Refaktorizácia ako forma údržby** proces počas tvorby sw, ktorý ma za učel predísť degradácii kodu<br />
 **44. Zapáchajúce nedostatky - bad smells**duplicita kodu, dlhe metody, switch, data chumping<br />
 **45. Testovanie použiteľnosti** SUV testovanie používateľskeho rozhrania <br />
-**46. Constantineov zákon** <br />
+**46. Constantineov zákon** štruktúra je stabilná ak je súdržnosť vysoká a spojenie slabé<br />
 **47. Mooreov zákon** každých 18 mesiacov sa zdvojnásobí počet integrovaných obvodov<br />
 **48. Zelený softvér** softvér vyvijany s dorazom na ekologiu napr. redukciou spotreby energie<br />
 **49. Invazívne meranie spotreby** vloženie niečoho do systému alebo odstránenie nejakej časti (napr. unit testy) alebo prepočítanie LOC na energiu<br />
