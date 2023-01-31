@@ -1,24 +1,24 @@
-**1. Meranie softvéru** - proces kvantifikácie softvéru. Je možné merať kvalitu softvéru aj proces vývoja.<br /><br />
-**2. validáciou a verifikáciou** - val: program je užitočný, ver: ak program splňa požiadavky<br /><br />
+**1. Meranie softvéru** - proces kvantifikácie softvéru. Je možné merať kvalitu softvéru aj proces vývoja.<br />
+**2. validáciou a verifikáciou** - val: program je užitočný, ver: ak program splňa požiadavky<br />
 **3. Modelovanie a čo je za tým**-softvér je vyvýjaný na základe modelu, ktorý sa približuje realite požiadaviek, avšak model má limity<br /><br />
 **4. Limity modelov** nie všetko môže byť modelované (teoretické a tech. Obmedzenia), nie všetko by malo byť modelované (morálne, ekonomické limity)<br /><br />
 **5. Návrh softvéru a problémy spojené s ním** vzhľadom na zvyšujúcu sa uroveň abstrakcie je problémom porozumenie doméne a požiadavkám a aj zvolený dizajn sw<br /><br />
-**6. Inžinierstvo softvéru a ostatné typy "inžinierstva"** <br /><br />
+**6. Inžinierstvo softvéru a ostatné typy "inžinierstva"** <br />
 **7. Evolúcia, údržba a pochopenie softvéru**<br /><br />
 **8. Komplexnosť softvéru** softvér je komplexný pretože máme ambíciu používať počítače viac sofistikovane, komplexita ovplyvňuje používateľol aj stakeholderov<br /><br />
 **9. Pochopenie, algoritmizácia a programovanie** <br /><br />
 **10. Úplnosť súboru požiadaviek** súbor požiadaviek nikdy nie je úplný, pochopenie sw požiadaviek je proces<br /><br />
-**11. Lehmanove prav. o zmenách** Systémy typu E, ktoré sa používajú, sa musia neustále prispôsobovať, inak sa stanú menej uspokojivé.<br /><br />
-**12. Lehmanove prav. o komplexnosti** Ako sa systém typu E vyvíja, jeho zložitosť sa zvyšuje, pokiaľ udržiava alebo redukuje.<br /><br />
-**13. Lehmanove prav. o samoregulácii** Procesy vývoja globálneho systému typu E sú samoregulačné.<br /><br />
-**14. Lehmanove p. o stabilite** Globálna miera aktivity vo vyvíjajúcom sa systéme E má tendenciu byť konštantná počas životnosti produktu.<br /><br />
-**15. Lehmanove p. o raste** Funkčný obsah systémov typu E sa musí zvyšovať, aby sa zachovala spokojnosť používateľov počas životnosti.<br /><br />
+**11. Lehmanove prav. o zmenách** Systémy typu E, ktoré sa používajú, sa musia neustále prispôsobovať, inak sa stanú menej uspokojivé.<br />
+**12. Lehmanove prav. o komplexnosti** Ako sa systém typu E vyvíja, jeho zložitosť sa zvyšuje, pokiaľ udržiava alebo redukuje.<br />
+**13. Lehmanove prav. o samoregulácii** Procesy vývoja globálneho systému typu E sú samoregulačné.<br />
+**14. Lehmanove p. o stabilite** Globálna miera aktivity vo vyvíjajúcom sa systéme E má tendenciu byť konštantná počas životnosti produktu.<br />
+**15. Lehmanove p. o raste** Funkčný obsah systémov typu E sa musí zvyšovať, aby sa zachovala spokojnosť používateľov počas životnosti.<br />
 **16. Lehmanove p. o znižovaní kvality** Kvalita systému E bude klesať, ak nebude prispôsobený tak, aby zohľadňoval zmeny v prevádzkovom prostredí.<br /><br />
-**17. GQM** definuje meranie na 3 úrovniach: Koncepčná úroveň (cieľ) Špecifikácia cieľa je definovaná podľa aktuálneho modelu.<br /><br />
+**17. GQM** definuje meranie na 3 úrovniach: Koncepčná úroveň (cieľ) Špecifikácia cieľa je definovaná podľa aktuálneho modelu.<br />
 Operačná úroveň (otázka) Pri hodnotení konkrétnych cieľov pomáha súbor otázok, ktoré model definujú a charakterizujú.<br />
 Kvantitatívna úroveň (čo merať – metrika) Ide o súbor vlastností modelu, ktoré je potrebné merať, aby bolo možné odpovedať na otázky.<br />
 **18. Demeterin zákon** je jednoduché pravidlo štýlu pre navrhovanie objektovo orientovaných systémov. Objekt by mal komunikovať iba so svojimi susedmi a nemal by vedieť o fungovaní okolitých objektov<br /><br />
-**19. Spojenie (coupling)** 2 časti softvéru spolu súvisia natoľko, že jednu nie je možné oddeliť od druhej (problem dedenia v jave)<br /><br />
+**19. Spojenie (coupling)** 2 časti softvéru spolu súvisia natoľko, že jednu nie je možné oddeliť od druhej (problem dedenia v jave)<br />
 **20. Súdržnosť (cohesion)** opisuje úroveň sémantického prepojenia prvkov, vysoká súdržnosť hovorí o tom, že veľa prvkov má medzi sebou prepojenie<br /><br />
 **21. Čo je testovanie?** proces hodnotenia aplikáciens cieľom nájsť chyby a zistiť či aplikácia splňa požiadavky<br /><br />
 **22. Kedy testovať softvér a kedy iný produkt?** Testovanie je súčasťou vývojového procesu, nie je to výrobný proces. Tým sa líši od mnohých iných strojárskych produktov, kde je kladený dôraz na testovanie správnej reprodukcie. <br /><br />
